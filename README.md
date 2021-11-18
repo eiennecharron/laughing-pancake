@@ -1,5 +1,9 @@
 # 1. ouvrir son image sur photoshop
-clique
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+
+
+
 ![ouverturedeimage](https://user-images.githubusercontent.com/93718161/142343156-e619a3e9-09cc-43e9-bf89-f8a9ca830d04.gif)
 
 ## 2. couches

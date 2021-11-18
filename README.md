@@ -13,14 +13,20 @@ clique droit sur l'image et cliquer sur "ouvrir avec" et ouvrir avec photoshop.
 ## 2. couches
 cliquer sur "couches" qui est a coté des calques.
 
-- rouge
-- vert
-- bleu
+
 
 
 
 
 ![calques vers couches](https://user-images.githubusercontent.com/93718161/142342244-67fb74e4-77c9-40a1-8382-5355897a0d5d.gif)
+
+
+
+
+
+- rouge
+- vert
+- bleu
 ## 3. modifier
 cliquer sur rouge et déplacer un peu le calques d'un coté, faite la même chose pour le vert et le bleu sur un coté différent.
 

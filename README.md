@@ -1,5 +1,5 @@
 # 1. ouvrir son image sur photoshop
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+clique droit sur l'image et cliquer sur "ouvrir avec"
 
 
 

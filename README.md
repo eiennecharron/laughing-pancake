@@ -23,7 +23,7 @@ cliquer sur "couches" qui est a coté des calques.
 
 
 
-
+- RVB
 - rouge
 - vert
 - bleu

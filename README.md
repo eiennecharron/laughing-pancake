@@ -34,3 +34,15 @@ cliquer sur rouge et déplacer un peu le calques d'un coté, faite la même chos
 
 
 ![changement des couleurs](https://user-images.githubusercontent.com/93718161/142342316-8c816d82-f344-49c4-8bc2-92cbb60d713d.gif)
+
+
+## 4. résultat final
+
+
+
+
+
+![Capture d’écran (2)](https://user-images.githubusercontent.com/93718161/142441562-cd2a6672-8009-4c38-8c0a-8becd08fe244.png)
+
+
+

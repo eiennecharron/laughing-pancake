@@ -13,6 +13,10 @@ clique droit sur l'image et cliquer sur "ouvrir avec" et ouvrir avec photoshop.
 ## 2. couches
 cliquer sur "couches" qui est a coté des calques.
 
+- rouge
+- vert
+- bleu
+
 
 
 

@@ -43,6 +43,7 @@ cliquer sur rouge et déplacer un peu le calques d'un coté, faite la même chos
 
 
 ![Capture d’écran (2)](https://user-images.githubusercontent.com/93718161/142441562-cd2a6672-8009-4c38-8c0a-8becd08fe244.png)
+https://smnarnold.com/exercices/taylor-swift-compilation?classId=ad8618e7-0394-4eac-9d4a-c150e0e2b1d1&assignmentId=67ab8d05-825b-44fd-a9d9-941b49ba3f3e&submissionId=8a95a241-0e74-1330-c033-118210920b09
 
 
 
